@@ -24,7 +24,7 @@ How It Works
 Temperature Conversion: Users can enter a value in one temperature unit, and the application will automatically calculate and display the equivalent values in other units.
 Moving Clouds: The clouds move infinitely in the background, creating a dynamic effect, while the gradient stays static.
 
-Screenshots
+<!-- Screenshots -->
 
 Credits
 
@@ -57,7 +57,7 @@ Enjoy exploring this project and customizing it to suit your needs!
 ### Key Points:
 1. The **Freepik attribution** is added under the **Credits** section as required.
 2. The **technologies used**, setup instructions, and contribution steps are outlined for clarity.
-3. Replace `workdotnisha` in the GitHub link with your actual GitHub username.
+<!-- 3. Replace `workdotnisha` in the GitHub link with your actual GitHub username. -->
 
 Let me know if you need any changes or additional sections!
 
