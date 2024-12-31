@@ -46,10 +46,10 @@ Feel free to contribute to this project by:
     git checkout -b feature/your-feature-name
 3. Committing your changes:
    ```bash
-  git commit -m "Add your message here"
+    git commit -m "Add your message here"
 4. Pushing to the branch:
    ```bash
-  git push origin feature/your-feature-name
+    git push origin feature/your-feature-name
 5. Creating a Pull Request.
    
 Contact
