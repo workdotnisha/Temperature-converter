@@ -16,7 +16,7 @@ This is a visually stunning and fully functional temperature converter website w
 ## Setup Instructions
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/workdotnisha/FutureIntern_WD_03.git
 2. Open the index.html file in your browser to view the website.
    
 How It Works
@@ -42,10 +42,13 @@ Feel free to contribute to this project by:
 
 1. Forking the repository.
 2. Creating a new branch:
-  git checkout -b feature/your-feature-name
+   ```bash
+    git checkout -b feature/your-feature-name
 3. Committing your changes:
+   ```bash
   git commit -m "Add your message here"
 4. Pushing to the branch:
+   ```bash
   git push origin feature/your-feature-name
 5. Creating a Pull Request.
    
