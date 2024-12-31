@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="clouds"></div>
+    <header>
+        <div class="header-container">
+            <img src="images/temperature.png" alt="Thermometer Icon" class="logo">
+            <h1>Smart Temp Converter</h1>
+            <button id="theme-toggle">🌙</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="converter-container">
+            <h2>Convert Temperature</h2>
+            <div class="input-section">
+                <input type="number" id="input-temp" placeholder="Enter Temperature">
+                <select id="input-unit">
+                    <option value="Celsius">Celsius</option>
+                    <option value="Fahrenheit">Fahrenheit</option>
+                    <option value="Kelvin">Kelvin</option>
+                </select>
+            </div>
+            <button id="convert-btn">Convert</button>
+            <div class="output-section">
+                <p id="output-temp">Converted Temperature: --</p>
+                <select id="output-unit">
+                    <option value="Celsius">Celsius</option>
+                    <option value="Fahrenheit">Fahrenheit</option>
+                    <option value="Kelvin">Kelvin</option>
+                </select>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Built with ❤️ by Nisha</p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/"><img src="images/linkedin.png" alt="LinkedIn"></a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
